@@ -15,7 +15,7 @@ variety of languages and technologies.
 
 ### MySQL
 
-- [Avoid diviion by 0 with `nullif`](mysql/avoid-division-by-zero-with-nullif.md)
+- [Avoid Division by Zero with `nullif`](mysql/avoid-division-by-zero-with-nullif.md)
 
 ## About
 
