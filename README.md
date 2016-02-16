@@ -21,6 +21,7 @@ variety of languages and technologies.
 ### Python
 
 - [Circular Import Problems](python/circular-imports-problems.md)
+
 ## About
 
 Inspired by [this](https://news.ycombinator.com/item?id=11068902) HN post
