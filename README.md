@@ -10,6 +10,7 @@ variety of languages and technologies.
 ### Categories
 
 * [MySQL](#MySQL)
+* [Python](#Python)
 
 ---
 
@@ -17,6 +18,9 @@ variety of languages and technologies.
 
 - [Avoid Division by Zero with `nullif`](mysql/avoid-division-by-zero-with-nullif.md)
 
+### Python
+
+- [Circular Import Problems](python/circular-imports-problems.md)
 ## About
 
 Inspired by [this](https://news.ycombinator.com/item?id=11068902) HN post
